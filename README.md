@@ -5,4 +5,4 @@ Install pafy
 pip install pafy
 
 Using
-python carina.py
+python carina.pyc
