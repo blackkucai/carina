@@ -1,5 +1,8 @@
 # carina
 youtube downloader
-Using
-Python carina.py
+Requiment
+Install pafy
+pip install pafy
 
+Using
+python carina.py
